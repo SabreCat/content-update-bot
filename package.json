@@ -1,0 +1,24 @@
+{
+	"name": "content-update-bot",
+	"version": "1.0.0",
+	"description": "Twitter bot that tweets joke Habitica-style content release announcements",
+	"keywords": [
+		"twitter",
+		"bot",
+		"humor"
+	],
+	"homepage": "https://github.com/SabreCat/content-update-bot#readme",
+	"bugs": "https://github.com/SabreCat/content-update-bot/issues",
+	"main": "bot.js",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/SabreCat/content-update-bot.git"
+	},
+	"author": "Edward 'Sabe' Jones",
+	"license": "CC-BY-4.0",
+	"dependencies": {
+		"friendly-words": "^1.1.2",
+		"tracery-grammar": "^2.7.4",
+		"twit": "^2.2.11"
+	}
+}
